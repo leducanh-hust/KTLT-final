@@ -103,8 +103,7 @@ int main()
                 Menu();
             }
             cout << "Enter customer name: ";
-            cin >> name;
-            cin.ignore();    
+            cin.ignore(100, 'n');    
             getline(cin, name);
             
             cout << "Enter customer phone number: ";
