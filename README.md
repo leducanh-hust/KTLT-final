@@ -40,3 +40,12 @@ To use the program, simply select the option from the menu by entering the corre
 For example, to book a room, select option 2 from the menu, enter the room number, customer name, and phone number as prompted, and the program will book the room for the customer.
 
 Similarly, to delete a room, select option 7 from the menu, enter the room number you want to delete, and the program will remove the room from the hotel.
+
+
+
+
+
+//Fixed bug
+
+- lỗi nhập tên là chuỗi có dấu cách 
+- Đặt hoặc trả 1 phòng k tồn tại
