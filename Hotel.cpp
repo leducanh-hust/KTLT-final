@@ -88,6 +88,7 @@ void Hotel::deleteRoom(int roomNumber)
         if (rooms[i]->getRoomNumber() == roomNumber)
         {
             rooms.erase(rooms.begin() + i);
+            cout << "Room removed successfully!" << endl;
             break;
         }
     }
