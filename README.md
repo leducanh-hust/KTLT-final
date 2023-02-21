@@ -45,7 +45,7 @@ Similarly, to delete a room, select option 7 from the menu, enter the room numbe
 
 
 
-//Fixed bug
+//Fixed bugs
 
 - lỗi nhập tên là chuỗi có dấu cách 
-- Đặt hoặc trả 1 phòng k tồn tại
+- Đặt hoặc trả 1 phòng không tồn tại
