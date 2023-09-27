@@ -1,6 +1,5 @@
 # KTLT-final
-
-                                                                   SUBJECT: HOTEL MANAGEMENT SYSTEM
+SUBJECT: HOTEL MANAGEMENT SYSTEM
                                                 
                                                                
                                                                
