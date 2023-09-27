@@ -3,11 +3,11 @@ SUBJECT: HOTEL MANAGEMENT SYSTEM
                                                 
                                                                
                                                                
-                                                                  Contributors:
-                                                                  1. Lê Đức Anh - 20213687(Leader)
-                                                                  2. Huỳnh Quang Đức - 20210191
-                                                                  3. Nguyễn Đình Minh Hiếu - 20210345 
-                                                                  4. Lương Ngọc Phương - 20213725
+Contributors:
+1. Lê Đức Anh - 20213687(Leader)
+2. 2. Huỳnh Quang Đức - 20210191
+3. Nguyễn Đình Minh Hiếu - 20210345 
+4. Lương Ngọc Phương - 20213725
                                                                   
 User Manual:
 Introduction
